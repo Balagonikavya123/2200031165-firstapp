@@ -1,0 +1,30 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  text-align: center;
+}
+
+.stock-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.stock-container li {
+  margin: 0.5rem 0;
+}
+
+.stock-container button {
+  padding: 0.5rem 1rem;
+  background-color: #1e90ff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.stock-details {
+  margin-top: 2rem;
+  background-color: #f0f8ff;
+  padding: 1rem;
+  border-radius: 8px;
+}
